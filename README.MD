@@ -30,13 +30,21 @@
 ---
 
 ## Структура проекта
+
 ├── main.py
+
 ├── node.py
+
 ├── tree_builder.py
+
 ├── tree_model.py
+
 ├── db.py
+
 ├── data/
+
 │ └── task
+
 └── README.md
 
 ---
@@ -50,3 +58,4 @@ pip install PyQt5
 
 Запустить приложение:
 python main.py
+
